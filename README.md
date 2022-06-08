@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @superdave2004
-- 👀 I’m interested in free tv streams.
-- 🌱 I’m currently learning how to use github
+- 👀 I’m interested in free live tv streams.
+- 🌱 I’m currently learning how to use github and im a total noob. 
+
+I had a dmca notice, cant figure out how to clean history out. bfg is too confusing and have no clue how to use it even after reading instructions. i tried to comply best i could by deleting infringing content and deleting files, but still lost my repos. if someone can direct me to a noobi friendly instructions that would help am a bit overwelmed at how much to learn. 
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
